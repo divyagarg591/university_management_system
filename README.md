@@ -38,6 +38,7 @@ student and teacher registration:
 ![Screenshot (391)](https://user-images.githubusercontent.com/77569905/117696804-595ca800-b1df-11eb-949f-4f9f387b51de.png)
 
 details of teacher and students:
+
 ![details_student](https://user-images.githubusercontent.com/77569905/117697803-86f62100-b1e0-11eb-9d38-35ee99db53f4.JPG)
 ![Screenshot (393)](https://user-images.githubusercontent.com/77569905/117697534-2f57b580-b1e0-11eb-9857-7daf29e7809f.png)
 ![Screenshot (394)](https://user-images.githubusercontent.com/77569905/117697536-3088e280-b1e0-11eb-8638-d7852c070468.png)
