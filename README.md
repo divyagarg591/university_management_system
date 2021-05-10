@@ -49,29 +49,38 @@ details of teacher and students:
 
 attendance:
 
+![attendance](https://user-images.githubusercontent.com/77569905/117697787-81004000-b1e0-11eb-9095-cd03784fcd0a.JPG)
 ![attendance detail](https://user-images.githubusercontent.com/77569905/117697776-7cd42280-b1e0-11eb-84fd-78f4a96b99bd.JPG)
 ![Screenshot (395)](https://user-images.githubusercontent.com/77569905/117697548-354d9680-b1e0-11eb-995b-21b0f4b0e468.png)
-![attendance](https://user-images.githubusercontent.com/77569905/117697787-81004000-b1e0-11eb-9095-cd03784fcd0a.JPG)
 
 examination:
+
 ![examination](https://user-images.githubusercontent.com/77569905/117697863-9bd2b480-b1e0-11eb-8c8f-838645791a2b.JPG)
+
 ![marks entry form](https://user-images.githubusercontent.com/77569905/117697917-ae4cee00-b1e0-11eb-8d2c-9ae8c446c70a.JPG)
+
 ![result check](https://user-images.githubusercontent.com/77569905/117697910-ab51fd80-b1e0-11eb-9e14-7e555954d1a0.JPG)
+
 ![result exam](https://user-images.githubusercontent.com/77569905/117697920-b016b180-b1e0-11eb-8968-9b5d2872524b.JPG)
 
 fee:
 
 ![fee](https://user-images.githubusercontent.com/77569905/117698664-93c74480-b1e1-11eb-80f3-865deda297a5.JPG)
+
 ![fee structure](https://user-images.githubusercontent.com/77569905/117698602-86aa5580-b1e1-11eb-8387-9b82393466be.JPG)
+
 ![fee form](https://user-images.githubusercontent.com/77569905/117698611-87db8280-b1e1-11eb-827b-3cc4312b3e45.JPG)
+
 ![fee detail](https://user-images.githubusercontent.com/77569905/117698652-91fd8100-b1e1-11eb-8453-97efed2589bd.JPG)
 
 contact us:
 
 ![contact](https://user-images.githubusercontent.com/77569905/117698687-99bd2580-b1e1-11eb-9e1b-544edad1ae84.JPG)
+
 ![contact 1](https://user-images.githubusercontent.com/77569905/117698694-9b86e900-b1e1-11eb-84b0-e3b06f31cf8d.JPG)
 
 about us:
 
 ![about](https://user-images.githubusercontent.com/77569905/117698737-a5105100-b1e1-11eb-8289-9b2edc027573.JPG)
+
 ![aboutus](https://user-images.githubusercontent.com/77569905/117698740-a6417e00-b1e1-11eb-94c3-9960f6f7895b.JPG)
