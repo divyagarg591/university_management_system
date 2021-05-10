@@ -32,15 +32,17 @@ login:
 
 home page:
 ![Screenshot (389)](https://user-images.githubusercontent.com/77569905/117696786-55308a80-b1df-11eb-97f2-96c216b2389f.png)
+
 student and teacher registration:
 ![Screenshot (390)](https://user-images.githubusercontent.com/77569905/117696797-5661b780-b1df-11eb-8c93-36706cc518de.png)
 ![Screenshot (391)](https://user-images.githubusercontent.com/77569905/117696804-595ca800-b1df-11eb-949f-4f9f387b51de.png)
 
 details of teacher and students:
-
+![Screenshot (393)](https://user-images.githubusercontent.com/77569905/117697534-2f57b580-b1e0-11eb-9857-7daf29e7809f.png)
+![Screenshot (394)](https://user-images.githubusercontent.com/77569905/117697536-3088e280-b1e0-11eb-8638-d7852c070468.png)
 
 attendance:
-
+![Screenshot (395)](https://user-images.githubusercontent.com/77569905/117697548-354d9680-b1e0-11eb-995b-21b0f4b0e468.png)
 
 examination:
 
