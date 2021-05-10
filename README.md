@@ -61,9 +61,17 @@ examination:
 
 fee:
 
-
+![fee](https://user-images.githubusercontent.com/77569905/117698664-93c74480-b1e1-11eb-80f3-865deda297a5.JPG)
+![fee structure](https://user-images.githubusercontent.com/77569905/117698602-86aa5580-b1e1-11eb-8387-9b82393466be.JPG)
+![fee form](https://user-images.githubusercontent.com/77569905/117698611-87db8280-b1e1-11eb-827b-3cc4312b3e45.JPG)
+![fee detail](https://user-images.githubusercontent.com/77569905/117698652-91fd8100-b1e1-11eb-8453-97efed2589bd.JPG)
 
 contact us:
 
+![contact](https://user-images.githubusercontent.com/77569905/117698687-99bd2580-b1e1-11eb-9e1b-544edad1ae84.JPG)
+![contact 1](https://user-images.githubusercontent.com/77569905/117698694-9b86e900-b1e1-11eb-84b0-e3b06f31cf8d.JPG)
+
 about us:
 
+![about](https://user-images.githubusercontent.com/77569905/117698737-a5105100-b1e1-11eb-8289-9b2edc027573.JPG)
+![aboutus](https://user-images.githubusercontent.com/77569905/117698740-a6417e00-b1e1-11eb-94c3-9960f6f7895b.JPG)
