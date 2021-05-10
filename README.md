@@ -17,3 +17,32 @@ University Managment system built using Java, Awt and Swing
 .Contact us
 
 .About Us
+
+project view:-
+
+first page:
+
+signup:
+
+login:
+
+student and teacher registration:
+
+
+details of teacher and students:
+
+
+attendance:
+
+
+examination:
+
+
+fee:
+
+
+
+contact us:
+
+about us:
+
