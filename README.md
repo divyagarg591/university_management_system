@@ -21,16 +21,20 @@ University Managment system built using Java, Awt and Swing
 project view:-
 
 first page:
+
 ![Screenshot (386)](https://user-images.githubusercontent.com/77569905/117696751-4d70e600-b1df-11eb-9f8d-ad1badc7b29e.png)
 
 signup:
+
 ![Screenshot (388)](https://user-images.githubusercontent.com/77569905/117696776-52ce3080-b1df-11eb-99f3-c5da944f3016.png)
 
 
 login:
+
 ![Screenshot (387)](https://user-images.githubusercontent.com/77569905/117696773-519d0380-b1df-11eb-88ae-7d6e22e73c20.png)
 
 home page:
+
 ![Screenshot (389)](https://user-images.githubusercontent.com/77569905/117696786-55308a80-b1df-11eb-97f2-96c216b2389f.png)
 
 student and teacher registration:
@@ -44,6 +48,7 @@ details of teacher and students:
 ![Screenshot (394)](https://user-images.githubusercontent.com/77569905/117697536-3088e280-b1e0-11eb-8638-d7852c070468.png)
 
 attendance:
+
 ![attendance detail](https://user-images.githubusercontent.com/77569905/117697776-7cd42280-b1e0-11eb-84fd-78f4a96b99bd.JPG)
 ![Screenshot (395)](https://user-images.githubusercontent.com/77569905/117697548-354d9680-b1e0-11eb-995b-21b0f4b0e468.png)
 ![attendance](https://user-images.githubusercontent.com/77569905/117697787-81004000-b1e0-11eb-9095-cd03784fcd0a.JPG)
